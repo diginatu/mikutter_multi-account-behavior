@@ -1,0 +1,10 @@
+---
+slug: :multi_account_behavior
+depends:
+  mikutter: 3.2.2
+  plugin:
+  - settings
+version: '1.0'
+author: diginatu
+name: Multi Account Behavior
+description: "マルチアカウントでリプしたりふぁぼる時の誤爆を防ぎます"
